@@ -1,0 +1,52 @@
+h1{
+    margin:70px;
+}
+p {
+    font-size: 50px;
+    color: rgb(250, 234, 250);
+
+    background: #535D73;
+
+    width: 500px;
+    height: 500px;
+
+    font-family:'Times New Roman', Times, serif;
+
+    margin:50px;
+    margin-left: 80px;
+
+    padding: 30px;
+
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+
+}
+
+div{
+    width:100px;
+    height: 100px;
+    background:pink;
+    padding:20px;
+    margin:40px;
+
+}
+
+img{
+    width: 500px;
+}
+
+a{
+    color: orange;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span{
+    color:aqua
+}
+
+/*span{
+    color:aqua
+}*/
